@@ -2,6 +2,26 @@
 
 ### Readings
 
+Algorithmic Bias
+
+http://approximatelycorrect.com/2016/11/07/the-foundations-of-algorithmic-bias/
+
+Some useful things to know about machine learning
+
+https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf
+
+Genetic test for autism refuted
+
+https://www.the-scientist.com/news-opinion/genetic-test-for-autism-refuted-38511
+
+Controlled experiments
+
+https://ai.stanford.edu/~ronnyk/2007GuideControlledExperiments.pdf
+
+Neural networks intro
+
+https://techcrunch.com/2017/04/13/neural-networks-made-easy/
+
 Data Leakage
 
 https://medium.com/@colin.fraser/the-treachery-of-leakage-56a2d7c4e931
